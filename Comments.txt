@@ -1,0 +1,7 @@
+****** Some of the files could not recognize Cyrillic chars. Changing encoding from UTF-8 to WINDOWS-1251 helped me out.
+
+
+**dz3** Octave lacks the `pdepe`-related functions . And the file Tsoy sent didn't worked (don't know why).
+**dz4** The script calculates SO LONG so it's very handy to save data after calculation and use it later. 
+	But I fucked up trying to open it in mathlab
+
